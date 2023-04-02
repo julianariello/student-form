@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+body{
+    font-family:'montserrat', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+
+    .form {
+        width:694px;
+        height:1050px;
+        background-color:white;
+        margin-left:30%;
+        }
+    .form {
+     color:rgb(10, 10, 10);   
+     font: size 12px;
+     font-size:20px;
+     text-align: center;
+    }    
+    .title_name {
+    font-size:20px;
+    color: black;
+    padding:5px;
+    text-align:center;
+    }
+    .form_item {
+    padding:10px;    
+    }
+    .genders {
+    padding: 5px;
+    }
+    input[type=text], select {
+        width: 50%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        align-items:center;
+      }
+      input[type=date], select {
+        width: 50%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        align-items:center;
+      }
+      input[type=email], select {
+        width: 50%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        align-items:center;
+      }
+      input[type=submit], select {
+        width: 30%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        align-items:center;
+      }
+      input[type=level], select {
+        width: 50%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        text-align: center;
+        box-sizing: border-box;
+        align-items:center;
+      }
